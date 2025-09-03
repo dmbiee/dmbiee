@@ -57,7 +57,7 @@ A developer who seeks knowledge, solves puzzles in code, and explores the unknow
 <h2>📡 Contacts</h2>
 <ul>
   <li>📧 Gmail: <a href="mailto:dmitrybelei@gmail.com">dmitrybelei@gmail.com</a></li>
-  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/dmytro-belei-47b11135b/">linkedin.com/in/yourprofile</a></li>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/dmytro-belei-47b11135b/">linkedin.com</a></li>
 </ul>
 
   <br><br>
